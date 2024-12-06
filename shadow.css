@@ -1,0 +1,7 @@
+h1{
+    text-align: center;
+    margin-top: 100px;
+    text-shadow: 2px 2px 2px red, 0px 100px greenyellow, 20px 130px 3px red;
+    color: greenyellow;
+    font-size: 50px;
+}
